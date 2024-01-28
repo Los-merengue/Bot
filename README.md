@@ -1,6 +1,8 @@
 Steps to Create a Telegram Bot
-1. Open Telegram and Search for BotFather
+
+1. Open Telegram and Search for BotFather \n
 Open the Telegram app on your device.
+
 In the search bar, type "BotFather" and select the official BotFather bot.
 2. Start a Chat and Create a New Bot
 Start a chat with BotFather by clicking the "Start" button.
